@@ -13,6 +13,8 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-192.168.1.40:8000 testdarkwebsite.org
+192.168.8.109:8000 testdarkwebsite.org
+
+192.168.8.109:8000 client.discovery.minecraft-services.net
 
 # End of custom host records.
